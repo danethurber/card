@@ -6,4 +6,28 @@ Terminal business card.
 npx danethurber
 ```
 
-Source for the npx card at [github.com/danethurber](https://github.com/danethurber).
+<details>
+<summary>preview the output</summary>
+
+```
+╭───────────────────────────────────────────────────────╮
+│                                                       │
+│   Dane Thurber                                        │
+│   Senior full-stack engineer · Denver, CO             │
+│                                                       │
+│   Now    Founding Eng @ Matterbeam                    │
+│          Building Pyre · socialpyre.com               │
+│                                                       │
+│   Open   Senior, staff, and founding-engineer roles   │
+│                                                       │
+│   Web    socialpyre.com                               │
+│   In     linkedin.com/in/danethurber                  │
+│   Mail   dane.thurber@gmail.com                       │
+│   GH     github.com/danethurber                       │
+│                                                       │
+╰───────────────────────────────────────────────────────╯
+```
+
+</details>
+
+Source for the npx card linked from [github.com/danethurber](https://github.com/danethurber).
