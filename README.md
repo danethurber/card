@@ -18,6 +18,9 @@ npx danethurber
 │   Now    Founding Eng @ Matterbeam                    │
 │          Building Pyre · socialpyre.com               │
 │                                                       │
+│   Stack  HTML · CSS · A11y · TypeScript · React       │
+│          Python · FastAPI · AWS                       │
+│                                                       │
 │   Open   Senior, staff, and founding-engineer roles   │
 │                                                       │
 │   Web    socialpyre.com                               │
