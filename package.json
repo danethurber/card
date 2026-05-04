@@ -1,13 +1,18 @@
 {
   "name": "danethurber",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Dane Thurber's terminal business card. Run npx danethurber.",
   "type": "module",
   "bin": {
     "danethurber": "./bin/card.js"
   },
-  "files": ["bin", "lib"],
-  "engines": { "node": ">=18" },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
   "license": "MIT",
   "author": "Dane Thurber <dane.thurber@gmail.com>",
   "homepage": "https://github.com/danethurber",
@@ -15,7 +20,12 @@
     "type": "git",
     "url": "git+https://github.com/danethurber/card.git"
   },
-  "keywords": ["business-card", "cli", "npx", "danethurber"],
+  "keywords": [
+    "business-card",
+    "cli",
+    "npx",
+    "danethurber"
+  ],
   "dependencies": {
     "boxen": "^8.0.1",
     "chalk": "^5.3.0"
