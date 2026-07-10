@@ -1,6 +1,6 @@
 {
   "name": "danethurber",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Dane Thurber's terminal business card. Run npx danethurber.",
   "type": "module",
   "bin": {
